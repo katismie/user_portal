@@ -4,3 +4,5 @@
 .form-pending{background:white;padding:32px;border-radius:16px;align-self:center}
 /* Blank areas for the designer */
 .hero-photo{min-height:360px;background:#e7ece6}.steps article{padding-bottom:0}.product-picture{min-height:250px;display:flex;align-items:flex-end;justify-content:center}.photo-note{display:none}
+
+.legal{max-width:900px;padding-top:45px}.legal h1{font-size:clamp(30px,6vw,48px);overflow-wrap:anywhere}.legal h2{font-size:24px;letter-spacing:-.4px;margin-top:36px}.legal a{text-decoration:underline;overflow-wrap:anywhere}.legal p{color:#374d43}
